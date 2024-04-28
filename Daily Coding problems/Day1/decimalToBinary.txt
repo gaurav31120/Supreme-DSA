@@ -1,0 +1,13 @@
+Decimal to binary:
+Convert a number from decimal to binary: 
+92 - 1011100
+567 - 1000110111
+567632 - 10001010100100010000
+
+Binary to decimal:
+Convert a number from binary to decimal: 
+10111011 - 187
+101110111001 - 3001
+1011 - 11
+
+
