@@ -1,0 +1,9 @@
+Question for Day 3:
+Problem 1:
+Sum of digits - Find sum of digits of a number
+
+Problem 2:
+Simple Interest - Take all values as input from user and calculate Simple Interest
+
+Problem 3:
+Print table of a number 
