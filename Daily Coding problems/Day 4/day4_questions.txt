@@ -1,0 +1,6 @@
+Question for Day 4:
+Problem 1:
+Reverse the digits - Find the reverse of digits of a number
+
+Problem 2:
+Leap year - Program to find the year is leap year or not
