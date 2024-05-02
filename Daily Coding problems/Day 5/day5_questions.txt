@@ -1,6 +1,6 @@
 Question for Day 5:
 Problem 1:
-GCD - Find GCD of a number
+GCD - Find GCD of 2 numbers
 
 Problem 2:
-LCM - Find LCM of a number
+LCM - Find LCM of 2 numbers
