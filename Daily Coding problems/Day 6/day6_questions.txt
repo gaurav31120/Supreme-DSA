@@ -1,0 +1,6 @@
+Question for Day 6:
+Problem 1:
+Find factorial of a number
+
+Problem 2: 
+Prime number - Find whether a given number is prime or not
