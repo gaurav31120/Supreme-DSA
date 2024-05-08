@@ -1,0 +1,7 @@
+Question for day 8:
+
+Problem 1:
+AP - Program to find sum of arithmetic series
+
+Problem 2:
+Program for Binary To Decimal Conversion
