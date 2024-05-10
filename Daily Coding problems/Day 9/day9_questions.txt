@@ -1,0 +1,7 @@
+Question for day 9:
+
+Problem 1:
+GP - Program to find sum of geometric series.
+
+Problem 2:
+Program for Decimal To Binary Conversion.
