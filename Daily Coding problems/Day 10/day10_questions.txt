@@ -1,0 +1,7 @@
+Question for day 10:
+
+Problem 1:
+Program to print Floyd’s Triangle
+
+Problem 2:
+Program to print the diamond shape
